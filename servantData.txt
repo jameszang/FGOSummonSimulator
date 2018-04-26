@@ -1,0 +1,27 @@
+Nero Claudius (Bride)/SSR/90/Y
+Mordred/SSR/76/N
+Frankenstein/SR/82/N
+Artoria Pendragon/SSR/2/N
+Altera/SSR/8/N
+Orion/SSR/60/N
+Francis Drake/SSR/65/N
+Tamamo-no-Mae/SSR/62/N
+Jack the Ripper/SSR/75/N
+Jeanne d'Arc/SSR/59/N
+Chevalier d'Eon/SR/10/N
+Atalante/SR/14/N
+Elisabeth Bathory/SR/18/N
+Anne Bonny & Mary Read/SR/66/N
+Marie Antoinette/SR/29/N
+Saint Martha/SR/30/N
+Nursery Rhyme/SR/74/N
+Stheno/SR/41/N
+Carmilla/SR/46/N
+Tamamo Cat/SR/58/N
+Euryale/R/15/N
+Medusa/R/23/N
+Boudica/R/26/N
+Ushiwakamaru/R/27/N
+Medea/R/31/N
+Jing Ke/R/42/N
+Kiyohime/R/56/N
